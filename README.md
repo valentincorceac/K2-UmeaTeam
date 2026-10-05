@@ -1,4 +1,5 @@
-### Projektet
+### <img width="360" height="360" alt="CashCashbackGIFbyPicPay" src="https://github.com/user-attachments/assets/2b208273-6171-433a-8339-762ec88071bd" />
+Projektet
 Skapa ett web applikation för en kommun som ska vara lätt för en besökare att hitta evenemang.
 ### Start av projektet
 Clona projektet -git clone "länken"
