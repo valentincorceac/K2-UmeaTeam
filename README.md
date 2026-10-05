@@ -1,7 +1,6 @@
-### <img width="360" height="360" alt="CashCashbackGIFbyPicPay" src="https://github.com/user-attachments/assets/2b208273-6171-433a-8339-762ec88071bd" />
-Projektet
+# 💚Projektet
 Skapa ett web applikation för en kommun som ska vara lätt för en besökare att hitta evenemang.
-### Start av projektet
+### 💻Start av projektet
 Clona projektet -git clone "länken"
 cd stå i mappen.
 git status för att kolla med att man står i rätt mapp.
@@ -11,7 +10,7 @@ dotnet build
 dotnet run
 git switch -c feature/console-project
 git push -u origin feature/console-project
-### Git-workflow
+### ⭐Git-workflow
 Skapa en branch från Main.
 Göra små begripliga commits.
 Pusha -skicka upp branchen.
@@ -19,4 +18,4 @@ Pull request - begära granskning.
 Review- kollegor granskar och du fixar feedback.
 Merge -PR merge in i Main.
 
-### Kanban-tavla
+### 🖼️Kanban-tavla
