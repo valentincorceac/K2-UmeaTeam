@@ -11,5 +11,11 @@ dotnet run
 git switch -c feature/console-project
 git push -u origin feature/console-project
 ### Git-workflow
+Skapa en branch från Main.
+Göra små begripliga commits.
+Pusha -skicka upp branchen.
+Pull request - begära granskning.
+Review- kollegor granskar och du fixar feedback.
+Merge -PR merge in i Main.
 
 ### Kanban-tavla
