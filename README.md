@@ -1,23 +1,29 @@
 # 💚Projektet K2-EventFlow
-Skapa ett web applikation åt en kommun som låter en besökare att hitta relevant evenemanget.
+1. Skapa ett web applikation åt en kommun som låter en besökare hitta relevant evenemanget på datum, kategori och plats.
 ---
-### 💻Start av projektet
-Clona projektet -git clone "länken"
-cd stå i mappen.
-git status för att kolla med att man står i rätt mapp.
+### 💻Starta projektet
+1. Klona projektet.
+git clone "<länken>"
+cd <mappen>
+git status
+2. Skapa .NET-projektet.
 dotnet new console --name Eventflow --output . --use-program-main
 dotnet new gitignore
 dotnet build
 dotnet run
+3. Skapa en feature-branch.
 git switch -c feature/console-project
+git status
+git add .
+git commit -m "Skapa grundläggande console-projekt"
 git push -u origin feature/console-project
 ---
 ### ⭐Git-workflow
-Skapa en branch från Main.
-Göra små begripliga commits.
-Pusha -skicka upp branchen.
-Pull request - begära granskning.
-Review- kollegor granskar och du fixar feedback.
-Merge -PR merge in i Main.
+1. Skapa en branch från Main.
+2. Göra små begripliga commits.
+3. Pusha -skicka upp branchen.
+4. Pull request - begära granskning.
+5. Review- kollegor granskar och du fixar feedback.
+6. Merge -PR merge in i Main.
 ---
 ### 🖼️Kanban-tavla
