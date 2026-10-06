@@ -27,3 +27,8 @@ git push -u origin feature/console-project
 6. Merge -PR merge in i Main.
 ---
 ### 🖼️Kanban-tavla
+1. Backlog – Idéer och framtida uppgifter
+2. To Do – Klara att börja på
+3. In Progress – Pågående arbete
+4. Review / PR – Väntar på granskning
+5. Done – Klart och mergat
