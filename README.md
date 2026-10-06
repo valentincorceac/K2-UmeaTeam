@@ -1,5 +1,5 @@
-# 💚Projektet
-Skapa ett web applikation för en kommun som ska vara lätt för en besökare att hitta evenemanget.
+# 💚Projektet K2-EventFlow
+Skapa ett web applikation åt en kommun som låter en besökare att hitta relevant evenemanget.
 ---
 ### 💻Start av projektet
 Clona projektet -git clone "länken"
