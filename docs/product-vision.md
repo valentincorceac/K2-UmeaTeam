@@ -32,5 +32,7 @@ utan krångel så att de enkelt kan ta del av kommunens utbud och få mer glädj
   i SQL Server med god dataintegritet.
 
 ## Avgränsningar
-- Tidligt Frontend
-- Sparar evenemang i ett databas med information, datum.
+- Ingen betalning eller biljettförsäljning
+- Ingen inloggning eller administratörspanel i första versionen
+- Anmälningsflödet demonstreras i frontend
+- SQL Server-databasen och SQl-operationerna visas separat
