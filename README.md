@@ -2,8 +2,7 @@
 1. Skapa ett web applikation åt en kommun som låter en besökare hitta relevant evenemanget på datum, kategori och plats.
 ---
 ### 💻Starta projektet
-Merge -PR merge in i Main. Klona projektet.
-Merge -PR merge in i Main.
+1. Klona projektet.
 git clone "<länken>"
 cd <mappen>
 git status
@@ -20,19 +19,17 @@ git commit -m "Skapa grundläggande console-projekt"
 git push -u origin feature/console-project
 ---
 ### ⭐Git-workflow
-[ ] Merge -PR merge in i Main. Skapa en branch från Main.
-[ ] Merge -PR merge in i Main. Göra små begripliga commits.
-[ ] Merge -PR merge in i Main. Pusha -skicka upp branchen.
-[ ] Merge -PR merge in i Main. Pull request - begära granskning.
-[ ] Merge -PR merge in i Main. Review- kollegor granskar och du fixar feedback.
-[ ] Merge -PR merge in i Main.
+1. Skapa en branch från Main.
+2. Göra små begripliga commits.
+3. Pusha -skicka upp branchen.
+4. Pull request - begära granskning.
+5. Review- kollegor granskar och du fixar feedback.
+6. Merge -PR merge in i Main.
 ---
 ### 🖼️Kanban-tavla
-[ ] Backlog – Idéer och framtida uppgifter
-[ ] To Do – Klara att börja på
-[ ] In Progress – Pågående arbete
-[ ] Review / PR – Väntar på granskning
-[ ] Done – Klart och mergat
-
-
-
+1. Backlog – Idéer och framtida uppgifter
+2. To Do – Klara att börja på
+3. In Progress – Pågående arbete
+4. Review / PR – Väntar på granskning
+5. Done – Klart och mergat
+### Ground rules
