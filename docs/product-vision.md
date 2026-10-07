@@ -16,9 +16,10 @@ Det gör det svårt att få en överblick, hitta relevanta
 aktiviteter och förstå hur man anmäler sig.
 
 ## Kundvärde
-EventFlow samlar evenemang på ett ställe. Besökaren kan söka,
-filtrera efter kategori och se datum, tid, plats och arrangör.
-Besökare ska ha tillgång till biljetten efter dom har anmält sig
+För kommunens invånare som har svårt att hitta aktuella och samlade evenemangstider ger vårt 
+applikation dem möjligheten att snabbt se vad som händer, när det händer och planera sin fritid 
+utan krångel så att de enkelt kan ta del av kommunens utbud och få mer glädje, aktivitet och gemenskap i vardagen.
+
 
 ## Produktmål
 - Visa kommande evenemang och detaljer om varje evenemang.
