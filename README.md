@@ -32,3 +32,4 @@ git push -u origin feature/console-project
 3. In Progress – Pågående arbete
 4. Review / PR – Väntar på granskning
 5. Done – Klart och mergat
+### Ground rules
