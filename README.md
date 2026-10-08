@@ -1,38 +1,42 @@
-# 💚Projektet K2-EventFlow
-1. Skapa ett web applikation åt en kommun som låter en besökare hitta relevant evenemanget på datum, kategori och plats.
----
-### 💻Starta projektet
-1. Merge -PR merge in i Main. Klona projektet.
-Merge -PR merge in i Main.
-git clone "<länken>"
-cd <mappen>
-git status
-2. Skapa .NET-projektet.
-dotnet new console --name Eventflow --output . --use-program-main
-dotnet new gitignore
+# EventFlow – Team Umeå
+
+En webbapplikation där kommunens invånare kan hitta,
+söka och filtrera evenemang samt anmäla sig till aktiviteter.
+
+## Starta projektet
+
+Klona projektet:
+
+```powershell
+git clone https://github.com/valentincorceac/K2-UmeaTeam.git
+cd K2-UmeaTeam
+```
+
+Bygg och kör den nuvarande konsolappen:
+
+```powershell
 dotnet build
 dotnet run
-3. Skapa en feature-branch.
-git switch -c feature/console-project
-git status
-git add .
-git commit -m "Skapa grundläggande console-projekt"
-git push -u origin feature/console-project
----
-### ⭐Git-workflow
- 1. Merge -PR merge in i Main. Skapa en branch från Main.
- 2. Merge -PR merge in i Main. Göra små begripliga commits.
- 3. Merge -PR merge in i Main. Pusha -skicka upp branchen.
- 4. Merge -PR merge in i Main. Pull request - begära granskning.
- 5. Merge -PR merge in i Main. Review- kollegor granskar och du fixar feedback.
- 6. Merge -PR merge in i Main.
----
-### 🖼️Kanban-tavla
- Backlog – Idéer och framtida uppgifter
- To Do – Klara att börja på
- In Progress – Pågående arbete
- Review / PR – Väntar på granskning
- Done – Klart och mergat
+```
 
+Webbgränssnittet utvecklas separat.
 
+## Git-workflow
+
+1. Uppdatera main med git pull.
+2. Skapa en feature-branch.
+3. Gör små och begripliga commits.
+4. Pusha branchen till GitHub.
+5. Öppna en Pull Request och beskriv ändringarna.
+6. Låt minst en annan teammedlem granska.
+7. Åtgärda feedback och lös diskussioner.
+8. Merge till main efter godkännande.
+
+## Kanban-tavla
+
+- **Backlog:** Idéer och framtida uppgifter.
+- **Ready:** Uppgifter som uppfyller Definition of Ready.
+- **In Progress:** Pågående arbete.
+- **Review / PR:** Väntar på granskning.
+- **Done:** Klart enligt Definition of Done och mergat.
 
